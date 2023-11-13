@@ -23,7 +23,7 @@ To leverage the power of `OS Upgrade Scripts`, follow the steps below:
 
 5. Adhere to the subsequent instructions displayed on the screen to proceed with the upgrade.
 
-## 📋 Supported Linux Distributions
+## Supported Linux Distributions
 
 `OS Upgrade Scripts` facilitates upgrades for the following Linux distributions:
 
@@ -38,7 +38,7 @@ To leverage the power of `OS Upgrade Scripts`, follow the steps below:
 - openSUSE
 - ... and more are on the way!
 
-## ⚠ Disclaimer
+## Disclaimer
 
 **Use `OS Upgrade Scripts` at your own discretion.** It is highly recommended to back up your data before initiating system upgrades. The authors assume no responsibility for any loss of data or damage that may occur from using these scripts.
 
